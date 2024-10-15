@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Duednedia : MonoBehaviour
+public class ObjetoDia : MonoBehaviour
 {
     private CicloDiaNoche cicloDiaNoche; // Referencia al script de ciclo día-noche
     private Renderer duendeRenderer; // Referencia al renderer del duende
