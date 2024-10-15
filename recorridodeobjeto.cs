@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class recorridoduende : MonoBehaviour
+public class recorridodeobjeto : MonoBehaviour
 {
     public Transform jugador; // Referencia al jugador
     public float velocidad = 5.0f; // Velocidad de movimiento del duende
